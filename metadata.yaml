@@ -1,0 +1,5 @@
+homepage: "https://www.crimtan.com"
+documentation: "https://crimtan-docs.atlassian.net/wiki/spaces/TI/pages/35815425/Crimtan+Standard+Snippets"
+versions:
+  - sha: 4d625e3ef7695191168b4b783d49ea883fcf5562
+    changeNotes: Initial release.
